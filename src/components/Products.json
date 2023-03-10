@@ -1,0 +1,47 @@
+
+{
+    "planets":[
+    {"name": "Mercury",
+    "price": 20000,
+    "Date Added":2020,
+    "Quantity": 5
+    },
+    {"name": "Venus",
+    "price": 20000,
+    "Date Added":2020,
+    "Quantity": 5
+    },
+    {"name": "Earth",
+    "price": 20000,
+    "Date Added":2020,
+    "Quantity": 5
+    },
+    {"name": "Mars",
+    "price": 20000,
+    "Date Added":2020,
+    "Quantity": 5
+    },
+    {"name": "Jupiter",
+    "price": 20000,
+    "Date Added":2020,
+    "Quantity": 5
+    },
+    {"name": "Saturn",
+    "price": 20000,
+    "Date Added":2020,
+    "Quantity": 5
+    },
+    {"name": "Uranus",
+    "price": 20000,
+    "Date Added":2020,
+    "Quantity": 5
+    },
+    {"name": "Pluto",
+    "price": 20000,
+    "Date Added":2020,
+    "Quantity": 5
+    }
+    ]
+    
+
+}
